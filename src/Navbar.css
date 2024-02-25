@@ -1,0 +1,14 @@
+/* Navbar.css */
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1rem;
+  margin-right: 10px;
+}
+
+.navbar-nav .nav-item:last-child .nav-link {
+  margin-right: 0;
+}
